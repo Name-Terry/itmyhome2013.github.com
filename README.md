@@ -1,6 +1,5 @@
-ÂóÌï¼¼Êõ²©¿Í
+trryæŠ€æœ¯åšå®¢
 ============
 
-* Ô­Ê¼Ä£°å [live demo](https://scotte.github.io/jekyll-clean).
-* ÈçĞèÊ¹ÓÃÇëÉ¾³ı_postsÏÂËùÓĞÎÄÕÂ
-* ²©¿ÍµØÖ· [ÂóÌï¼¼Êõ²©¿Í](http://itmyhome.com)
+* åŸå§‹æ¨¡æ¿ [live demo](https://scotte.github.io/jekyll-clean).
+* å¦‚éœ€ä½¿ç”¨è¯·åˆ é™¤_postsä¸‹æ‰€æœ‰æ–‡ç« 
